@@ -1,0 +1,25 @@
+[
+  {
+    "package": "arkhe",
+    "oncran": true
+  },
+  {
+    "package": "dimensio",
+    "oncran": true
+  },
+  {
+    "package": "folio",
+    "oncran": true
+  },
+  {
+    "package": "kairos"
+  },
+  {
+    "package": "khroma",
+    "oncran": true
+  },
+  {
+    "package": "tabula",
+    "oncran": true
+  }
+]

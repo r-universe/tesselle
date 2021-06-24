@@ -1,5 +1,41 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tesselle/universe
 	shallow = true
 	branch = HEAD
+[submodule "arkhe"]
+	path = arkhe
+	url = https://github.com/tesselle/arkhe
+	shallow = true
+	branch = master
+	registered = true
+[submodule "dimensio"]
+	path = dimensio
+	url = https://github.com/tesselle/dimensio
+	shallow = true
+	branch = master
+	registered = true
+[submodule "folio"]
+	path = folio
+	url = https://github.com/tesselle/folio
+	shallow = true
+	branch = master
+	registered = true
+[submodule "kairos"]
+	path = kairos
+	url = https://github.com/tesselle/kairos
+	shallow = true
+	branch = master
+	registered = true
+[submodule "khroma"]
+	path = khroma
+	url = https://github.com/tesselle/khroma
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tabula"]
+	path = tabula
+	url = https://github.com/tesselle/tabula
+	shallow = true
+	branch = master
+	registered = true
