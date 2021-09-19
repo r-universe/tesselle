@@ -21,5 +21,8 @@
   {
     "package": "tabula",
     "oncran": true
+  },
+  {
+    "package": "tekton"
   }
 ]

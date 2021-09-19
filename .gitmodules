@@ -39,3 +39,9 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "tekton"]
+	path = tekton
+	url = https://github.com/tesselle/tekton
+	shallow = true
+	branch = master
+	registered = true
