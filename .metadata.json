@@ -8,6 +8,9 @@
     "oncran": true
   },
   {
+    "package": "fasti"
+  },
+  {
     "package": "folio",
     "oncran": true
   },

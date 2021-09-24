@@ -15,6 +15,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "fasti"]
+	path = fasti
+	url = https://github.com/tesselle/fasti
+	shallow = true
+	branch = master
+	registered = true
 [submodule "folio"]
 	path = folio
 	url = https://github.com/tesselle/folio
