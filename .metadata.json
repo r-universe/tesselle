@@ -15,6 +15,9 @@
     "oncran": true
   },
   {
+    "package": "janus"
+  },
+  {
     "package": "kairos"
   },
   {

@@ -27,6 +27,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "janus"]
+	path = janus
+	url = https://github.com/tesselle/janus
+	shallow = true
+	branch = master
+	registered = true
 [submodule "kairos"]
 	path = kairos
 	url = https://github.com/tesselle/kairos
