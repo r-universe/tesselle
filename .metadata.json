@@ -18,7 +18,8 @@
     "package": "janus"
   },
   {
-    "package": "kairos"
+    "package": "kairos",
+    "oncran": false
   },
   {
     "package": "khroma",
