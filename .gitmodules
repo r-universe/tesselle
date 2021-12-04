@@ -57,3 +57,9 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "tesselle"]
+	path = tesselle
+	url = https://github.com/tesselle/tesselle
+	shallow = true
+	branch = main
+	registered = true

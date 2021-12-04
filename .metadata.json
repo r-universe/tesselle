@@ -31,5 +31,8 @@
   },
   {
     "package": "tekton"
+  },
+  {
+    "package": "tesselle"
   }
 ]
