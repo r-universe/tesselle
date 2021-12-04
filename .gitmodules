@@ -7,53 +7,53 @@
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "fasti"]
 	path = fasti
 	url = https://github.com/tesselle/fasti
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "folio"]
 	path = folio
 	url = https://github.com/tesselle/folio
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "janus"]
 	path = janus
 	url = https://github.com/tesselle/janus
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "kairos"]
 	path = kairos
 	url = https://github.com/tesselle/kairos
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/tesselle/khroma
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "tabula"]
 	path = tabula
 	url = https://github.com/tesselle/tabula
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "tekton"]
 	path = tekton
 	url = https://github.com/tesselle/tekton
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
