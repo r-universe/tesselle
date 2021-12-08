@@ -45,6 +45,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "saturn"]
+	path = saturn
+	url = https://github.com/tesselle/saturn
+	shallow = true
+	branch = main
+	registered = true
 [submodule "tabula"]
 	path = tabula
 	url = https://github.com/tesselle/tabula
