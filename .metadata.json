@@ -26,9 +26,6 @@
     "oncran": true
   },
   {
-    "package": "saturn"
-  },
-  {
     "package": "tabula",
     "oncran": true
   },
