@@ -13,7 +13,7 @@
 	path = chronos
 	url = https://github.com/tesselle/chronos
 	shallow = true
-	branch = main
+	branch = master
 	registered = true
 [submodule "dimensio"]
 	path = dimensio
