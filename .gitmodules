@@ -9,6 +9,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "chronos"]
+	path = chronos
+	url = https://github.com/tesselle/chronos
+	shallow = true
+	branch = main
+	registered = true
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
