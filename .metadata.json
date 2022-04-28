@@ -36,6 +36,7 @@
     "package": "tekton"
   },
   {
-    "package": "tesselle"
+    "package": "tesselle",
+    "oncran": false
   }
 ]
