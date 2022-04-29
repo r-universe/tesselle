@@ -37,6 +37,6 @@
   },
   {
     "package": "tesselle",
-    "oncran": false
+    "oncran": true
   }
 ]
