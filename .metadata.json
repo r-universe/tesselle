@@ -1,5 +1,8 @@
 [
   {
+    "package": "alkahest"
+  },
+  {
     "package": "arkhe",
     "oncran": true
   },

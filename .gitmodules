@@ -3,6 +3,12 @@
 	url = https://github.com/tesselle/universe
 	shallow = true
 	branch = HEAD
+[submodule "alkahest"]
+	path = alkahest
+	url = https://github.com/tesselle/alkahest
+	shallow = true
+	branch = main
+	registered = true
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
