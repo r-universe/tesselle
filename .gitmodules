@@ -12,13 +12,13 @@
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
 	shallow = true
-	branch = main
+	branch = v1.0.0
 	registered = true
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
 	shallow = true
-	branch = main
+	branch = v1.2.0
 	registered = true
 [submodule "chronos"]
 	path = chronos
@@ -29,13 +29,13 @@
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
 	shallow = true
-	branch = main
+	branch = v0.3.1
 	registered = true
 [submodule "folio"]
 	path = folio
 	url = https://github.com/tesselle/folio
 	shallow = true
-	branch = main
+	branch = v1.3.0
 	registered = true
 [submodule "isopleuros"]
 	path = isopleuros
@@ -46,13 +46,13 @@
 	path = kairos
 	url = https://github.com/tesselle/kairos
 	shallow = true
-	branch = main
+	branch = v1.2.0
 	registered = true
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/tesselle/khroma
 	shallow = true
-	branch = main
+	branch = v1.10.0
 	registered = true
 [submodule "nexus"]
 	path = nexus
@@ -63,17 +63,17 @@
 	path = tabula
 	url = https://github.com/tesselle/tabula
 	shallow = true
-	branch = main
+	branch = v2.0.0
 	registered = true
 [submodule "tekton"]
 	path = tekton
 	url = https://github.com/tesselle/tekton
 	shallow = true
-	branch = main
+	branch = *release
 	registered = true
 [submodule "tesselle"]
 	path = tesselle
 	url = https://github.com/tesselle/tesselle
 	shallow = true
-	branch = main
+	branch = v1.2.0
 	registered = true
