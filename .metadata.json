@@ -1,5 +1,8 @@
 [
   {
+    "package": "aion"
+  },
+  {
     "package": "alkahest",
     "oncran": true
   },
@@ -28,6 +31,9 @@
   {
     "package": "khroma",
     "oncran": true
+  },
+  {
+    "package": "nexus"
   },
   {
     "package": "tabula",

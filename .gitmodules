@@ -3,6 +3,12 @@
 	url = https://github.com/tesselle/universe
 	shallow = true
 	branch = HEAD
+[submodule "aion"]
+	path = aion
+	url = https://github.com/tesselle/aion
+	shallow = true
+	branch = main
+	registered = true
 [submodule "alkahest"]
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
@@ -48,6 +54,12 @@
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/tesselle/khroma
+	shallow = true
+	branch = main
+	registered = true
+[submodule "nexus"]
+	path = nexus
+	url = https://github.com/tesselle/nexus
 	shallow = true
 	branch = main
 	registered = true
