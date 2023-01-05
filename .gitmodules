@@ -45,6 +45,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "isopleuros"]
+	path = isopleuros
+	url = https://github.com/tesselle/isopleuros
+	shallow = true
+	branch = main
+	registered = true
 [submodule "kairos"]
 	path = kairos
 	url = https://github.com/tesselle/kairos
