@@ -1,0 +1,38 @@
+[
+  {
+    "package": "alkahest",
+    "releasetag": true
+  },
+  {
+    "package": "arkhe",
+    "releasetag": true
+  },
+  {
+    "package": "dimensio",
+    "releasetag": true
+  },
+  {
+    "package": "folio",
+    "releasetag": true
+  },
+  {
+    "package": "kairos",
+    "releasetag": true
+  },
+  {
+    "package": "khroma",
+    "releasetag": true
+  },
+  {
+    "package": "tabula",
+    "releasetag": true
+  },
+  {
+    "package": "tekton",
+    "releasetag": true
+  },
+  {
+    "package": "tesselle",
+    "releasetag": true
+  }
+]

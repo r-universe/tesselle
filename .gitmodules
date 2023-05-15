@@ -7,7 +7,6 @@
 	path = aion
 	url = https://github.com/tesselle/aion
 	shallow = true
-	branch = main
 	registered = true
 [submodule "alkahest"]
 	path = alkahest
@@ -25,7 +24,6 @@
 	path = chronos
 	url = https://github.com/tesselle/chronos
 	shallow = true
-	branch = master
 	registered = true
 [submodule "dimensio"]
 	path = dimensio
@@ -43,7 +41,6 @@
 	path = isopleuros
 	url = https://github.com/tesselle/isopleuros
 	shallow = true
-	branch = main
 	registered = true
 [submodule "kairos"]
 	path = kairos
@@ -61,7 +58,6 @@
 	path = nexus
 	url = https://github.com/tesselle/nexus
 	shallow = true
-	branch = main
 	registered = true
 [submodule "tabula"]
 	path = tabula
