@@ -16,6 +16,10 @@
     "releasetag": true
   },
   {
+    "package": "isopleuros",
+    "releasetag": true
+  },
+  {
     "package": "kairos",
     "releasetag": true
   },
