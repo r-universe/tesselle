@@ -41,7 +41,7 @@
 	path = isopleuros
 	url = https://github.com/tesselle/isopleuros
 	shallow = true
-	branch = *release
+	branch = v1.0.0
 	registered = true
 [submodule "kairos"]
 	path = kairos
