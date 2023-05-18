@@ -12,7 +12,7 @@
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
 	shallow = true
-	branch = v1.0.0
+	branch = v1.1.0
 	registered = true
 [submodule "arkhe"]
 	path = arkhe
