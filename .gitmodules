@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tesselle/universe
+	url = https://github.com/tesselle/tesselle.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "aion"]
