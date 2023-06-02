@@ -3,11 +3,6 @@
 	url = https://github.com/tesselle/tesselle.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "aion"]
-	path = aion
-	url = https://github.com/tesselle/aion
-	shallow = true
-	registered = true
 [submodule "alkahest"]
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
