@@ -14,6 +14,11 @@
 	shallow = true
 	branch = v1.1.0
 	registered = true
+[submodule "ananke"]
+	path = ananke
+	url = https://github.com/tesselle/ananke
+	shallow = true
+	registered = true
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
