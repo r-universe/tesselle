@@ -7,6 +7,7 @@
 	path = aion
 	url = https://github.com/tesselle/aion
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "alkahest"]
 	path = alkahest

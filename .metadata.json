@@ -1,5 +1,9 @@
 [
   {
+    "package": "aion",
+    "releasetag": true
+  },
+  {
     "package": "alkahest",
     "releasetag": true
   },
