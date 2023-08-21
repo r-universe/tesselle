@@ -1,81 +1,54 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tesselle/tesselle.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "aion"]
 	path = aion
 	url = https://github.com/tesselle/aion
-	shallow = true
 	branch = v1.0.0
-	registered = true
 [submodule "alkahest"]
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
-	shallow = true
 	branch = v1.1.1
-	registered = true
 [submodule "ananke"]
 	path = ananke
 	url = https://github.com/tesselle/ananke
-	shallow = true
-	registered = true
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
-	shallow = true
 	branch = v1.2.0
-	registered = true
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
-	shallow = true
 	branch = v0.3.1
-	registered = true
 [submodule "folio"]
 	path = folio
 	url = https://github.com/tesselle/folio
-	shallow = true
 	branch = v1.3.0
-	registered = true
 [submodule "isopleuros"]
 	path = isopleuros
 	url = https://github.com/tesselle/isopleuros
-	shallow = true
 	branch = v1.0.0
-	registered = true
 [submodule "kairos"]
 	path = kairos
 	url = https://github.com/tesselle/kairos
-	shallow = true
 	branch = v1.2.0
-	registered = true
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/tesselle/khroma
-	shallow = true
 	branch = v1.10.0
-	registered = true
 [submodule "nexus"]
 	path = nexus
 	url = https://github.com/tesselle/nexus
-	shallow = true
-	registered = true
 [submodule "tabula"]
 	path = tabula
 	url = https://github.com/tesselle/tabula
-	shallow = true
 	branch = v2.0.0
-	registered = true
 [submodule "tekton"]
 	path = tekton
 	url = https://github.com/tesselle/tekton
-	shallow = true
 	branch = *release
-	registered = true
 [submodule "tesselle"]
 	path = tesselle
 	url = https://github.com/tesselle/tesselle
-	shallow = true
 	branch = v1.2.0
-	registered = true
