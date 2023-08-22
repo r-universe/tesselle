@@ -43,7 +43,7 @@
 [submodule "tabula"]
 	path = tabula
 	url = https://github.com/tesselle/tabula
-	branch = v2.0.0
+	branch = v3.0.0
 [submodule "tekton"]
 	path = tekton
 	url = https://github.com/tesselle/tekton
