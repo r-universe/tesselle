@@ -32,7 +32,7 @@
 [submodule "kairos"]
 	path = kairos
 	url = https://github.com/tesselle/kairos
-	branch = v2.0.0
+	branch = v2.0.1
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/tesselle/khroma
