@@ -5,7 +5,7 @@
 [submodule "aion"]
 	path = aion
 	url = https://github.com/tesselle/aion
-	branch = v1.0.1
+	branch = v1.0.2
 [submodule "alkahest"]
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
