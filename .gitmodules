@@ -47,7 +47,6 @@
 [submodule "tekton"]
 	path = tekton
 	url = https://github.com/tesselle/tekton
-	branch = *release
 [submodule "tesselle"]
 	path = tesselle
 	url = https://github.com/tesselle/tesselle

@@ -36,10 +36,6 @@
     "releasetag": true
   },
   {
-    "package": "tekton",
-    "releasetag": true
-  },
-  {
     "package": "tesselle",
     "releasetag": true
   }
