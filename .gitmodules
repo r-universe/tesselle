@@ -16,7 +16,7 @@
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
-	branch = v1.3.0
+	branch = v1.4.0
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
