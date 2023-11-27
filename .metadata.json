@@ -32,6 +32,10 @@
     "releasetag": true
   },
   {
+    "package": "nexus",
+    "releasetag": true
+  },
+  {
     "package": "tabula",
     "releasetag": true
   },
