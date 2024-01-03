@@ -29,9 +29,6 @@
 	path = isopleuros
 	url = https://github.com/tesselle/isopleuros
 	branch = v1.1.0
-[submodule "janus"]
-	path = janus
-	url = https://github.com/tesselle/janus
 [submodule "kairos"]
 	path = kairos
 	url = https://github.com/tesselle/kairos
@@ -40,6 +37,9 @@
 	path = khroma
 	url = https://github.com/tesselle/khroma
 	branch = v1.11.0
+[submodule "kinesis"]
+	path = kinesis
+	url = https://github.com/tesselle/kinesis
 [submodule "nexus"]
 	path = nexus
 	url = https://github.com/tesselle/nexus
