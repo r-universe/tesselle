@@ -9,7 +9,7 @@
 [submodule "alkahest"]
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
-	branch = v1.1.1
+	branch = v1.2.0
 [submodule "ananke"]
 	path = ananke
 	url = https://github.com/tesselle/ananke
