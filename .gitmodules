@@ -13,6 +13,7 @@
 [submodule "ananke"]
 	path = ananke
 	url = https://github.com/tesselle/ananke
+	branch = *release
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
