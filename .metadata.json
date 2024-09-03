@@ -8,10 +8,6 @@
     "releasetag": true
   },
   {
-    "package": "ananke",
-    "releasetag": true
-  },
-  {
     "package": "arkhe",
     "releasetag": true
   },
@@ -33,10 +29,6 @@
   },
   {
     "package": "khroma",
-    "releasetag": true
-  },
-  {
-    "package": "nexus",
     "releasetag": true
   },
   {

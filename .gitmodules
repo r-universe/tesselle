@@ -13,7 +13,6 @@
 [submodule "ananke"]
 	path = ananke
 	url = https://github.com/tesselle/ananke
-	branch = *release
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/tesselle/arkhe
@@ -44,7 +43,6 @@
 [submodule "nexus"]
 	path = nexus
 	url = https://github.com/tesselle/nexus
-	branch = *release
 [submodule "tabula"]
 	path = tabula
 	url = https://github.com/tesselle/tabula
