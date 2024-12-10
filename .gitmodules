@@ -5,7 +5,7 @@
 [submodule "aion"]
 	path = aion
 	url = https://github.com/tesselle/aion
-	branch = v1.2.0
+	branch = v1.3.0
 [submodule "alkahest"]
 	path = alkahest
 	url = https://github.com/tesselle/alkahest
@@ -20,7 +20,7 @@
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
-	branch = v0.10.0
+	branch = v0.10.1
 [submodule "folio"]
 	path = folio
 	url = https://github.com/tesselle/folio
