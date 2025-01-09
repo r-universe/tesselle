@@ -20,7 +20,7 @@
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/tesselle/dimensio
-	branch = v0.10.1
+	branch = v0.11.0
 [submodule "folio"]
 	path = folio
 	url = https://github.com/tesselle/folio
