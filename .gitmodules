@@ -36,7 +36,7 @@
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/tesselle/khroma
-	branch = v1.14.0
+	branch = v1.15.0
 [submodule "kinesis"]
 	path = kinesis
 	url = https://github.com/tesselle/kinesis
