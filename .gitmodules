@@ -5,38 +5,30 @@
 [submodule "aion"]
 	path = aion
 	url = https://codeberg.org/tesselle/aion
-	branch = v1.3.0
 [submodule "alkahest"]
 	path = alkahest
 	url = https://codeberg.org/tesselle/alkahest
-	branch = v1.2.0
 [submodule "ananke"]
 	path = ananke
 	url = https://codeberg.org/tesselle/ananke
 [submodule "arkhe"]
 	path = arkhe
 	url = https://codeberg.org/tesselle/arkhe
-	branch = v1.9.0
 [submodule "dimensio"]
 	path = dimensio
 	url = https://codeberg.org/tesselle/dimensio
-	branch = v0.11.0
 [submodule "folio"]
 	path = folio
 	url = https://codeberg.org/tesselle/folio
-	branch = v1.5.0
 [submodule "isopleuros"]
 	path = isopleuros
 	url = https://codeberg.org/tesselle/isopleuros
-	branch = v1.3.0
 [submodule "kairos"]
 	path = kairos
 	url = https://codeberg.org/tesselle/kairos
-	branch = v2.2.0
 [submodule "khroma"]
 	path = khroma
 	url = https://codeberg.org/tesselle/khroma
-	branch = v1.15.0
 [submodule "kinesis"]
 	path = kinesis
 	url = https://codeberg.org/tesselle/kinesis
@@ -46,11 +38,9 @@
 [submodule "tabula"]
 	path = tabula
 	url = https://codeberg.org/tesselle/tabula
-	branch = v3.2.0
 [submodule "tekton"]
 	path = tekton
 	url = https://codeberg.org/tesselle/tekton
 [submodule "tesselle"]
 	path = tesselle
 	url = https://codeberg.org/tesselle/tesselle
-	branch = v1.5.0
