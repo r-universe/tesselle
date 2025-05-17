@@ -1,0 +1,26 @@
+[
+  {
+    "package": "aion",
+    "metadata": {
+      "review": {
+        "id": 6210,
+        "status": "reviewed",
+        "version": "1.0.3",
+        "organization": "Journal of Open Source Software",
+        "url": "https://github.com/openjournals/joss-reviews/issues/6210"
+      }
+    }
+  },
+  {
+    "package": "tabula",
+    "metadata": {
+      "review": {
+        "id": 1821,
+        "status": "reviewed",
+        "version": "1.4.0",
+        "organization": "Journal of Open Source Software",
+        "url": "https://github.com/openjournals/joss-reviews/issues/1821"
+      }
+    }
+  }
+]
